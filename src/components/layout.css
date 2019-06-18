@@ -1,10 +1,54 @@
+html {
+  color: #222;
+  font-size: 1em;
+  font-family: sans-serif;
+  line-height: 1.4;
+  text-align: center;
+  /* padding: 30px; */
+}
+
 body {
-  margin: 60px auto;
+  margin: 50px auto;
   text-align: center;
   font-family: sans-serif;
 }
 
+.intro {
+  margin-bottom: 50px;
+}
 
+.intro h1 {
+  margin: 0;
+}
+
+.intro p {
+  margin-top: 10px;
+}
+
+button {
+  background-color: #b0b0b0; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  margin: 0px 3px;
+  border-radius: 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.AllCards {
+  border: none;
+  background-color: #f2f2f2;
+  padding: 1px 15px 45px 15px;
+  margin: 15px 15px;
+  border-radius: 15px;
+}
+
+.emoji {
+  font-size: 36px;
+}
 
 
 
